@@ -16,7 +16,10 @@ p, ul, ol {
     margin-bottom: 1em;
     line-height: 1.3;
 }
-img {width: 100%;}
+img {
+    width: 70px;
+    height: 70px:
+}
 header, section, aside, footer {
     padding: 8px;
     border: 1px solid #969696;
@@ -85,7 +88,7 @@ section {background: #fff;}
     width: 80px;
     height: 80px;
     margin-top: -20px;
-    background: rgb(243, 255, 70);
+    background: rgb(118, 175, 43);
     border-radius: 100%;
     filter: blur(20px);
 }
